@@ -48,6 +48,9 @@ The problem was that the icons were not shown when I opened nvim-tree. `nvim-web
 
 These will be downloaded as zip files, unzip them to a desired location. Install the fonts of your choice. Then head to your terminal and use the newly downloaded fonts as the terminal fonts. Then open nvim-tree in neovim. This solved the problem for me.
 
+* Treesitter also allows **rainbow parentheses**.
+To get rainbow parentheses go to [https://github.com/p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow). Install this plugin and then go to `treesitter.lua` put some extra commands there.
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
