@@ -1,6 +1,6 @@
 # How I set up my neovim
 
-This is my current directory structure(which I created along side this [video](https://www.youtube.com/watch?v=J9yqSdvAKXY)).
+This is my current directory structure(which I created along side this very nice [video](https://www.youtube.com/watch?v=J9yqSdvAKXY)).
 
 ```
 ~/.config
