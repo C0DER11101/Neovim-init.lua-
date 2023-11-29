@@ -39,7 +39,7 @@ This is my current directory structure(which I created along side this very nice
 * To install a plugin for neovim, just open `plugins.lua` and type: `use <plugin-name-for-nvim>`(this is shown in the video).
 * After adding the plugin names to `plugins.lua`, run `:PackerSync` from the file. The plugin(s) will get installed.
 * Just installing is not enough, we need to setup the plugins so that we can use them via neovim's commandline.
-* Create a directory `plugin_config` under `lua/core/`, in that create the lua files for each plugin. In each lua file, we will `require` the `setup()` of the plugins. For example: in `telescopse.lua`, we will require the setup of `telescope` as: `require("telescope").setup()`. If you want to you can also define some keymaps. There's more that you can do with these files, but since, it's my first with neovim's plugins, I have done it in a simple manner.
+* Create a directory `plugin_config` under `lua/core/`, in that create the lua files for each plugin. In each lua file, we will `require` the `setup()` of the plugins. For example: in `telescopse.lua`, we will require the setup of `telescope` as: `require("telescope").setup()`. If you want you can also define some keymaps. There's more that you can do with these files, but since, it's my first with neovim's plugins, I have done it in a simple manner.
 
 **I faced a problem with [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)**.
 
