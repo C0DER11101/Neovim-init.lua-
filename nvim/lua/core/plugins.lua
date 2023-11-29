@@ -25,6 +25,7 @@ return require('packer').startup(function(use)
 
 	use 'https://github.com/vim-syntastic/syntastic'
 	use 'nvim-treesitter/nvim-treesitter'
+	use 'p00f/nvim-ts-rainbow'
 	-- My plugins here
 	-- use 'foo1/bar1.nvim'
 	-- use 'foo2/bar2.nvim'
