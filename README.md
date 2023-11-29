@@ -14,6 +14,7 @@ This is my current directory structure(which I created along side watching this 
      |  |__core/
      |     |
      |     |__basic.lua
+     |     |
      |     |__plugin_config/
      |     |  |
      |     |  |__init.lua
