@@ -4,6 +4,7 @@ This is my current directory structure(which I created along side watching this 
 
 ```
 ~/.config
+|
 |____nvim/
      |
      |__init.lua
