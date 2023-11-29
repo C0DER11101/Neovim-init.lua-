@@ -1,4 +1,4 @@
-# How I set up my neovim
+# How I set up my <img align="left" alt ="C" width="30px" src="file:///home/priyanuj/Downloads/neovim.svg" style="padding-right:10px;" />
 
 This is my current directory structure(which I created along side this very nice [video](https://www.youtube.com/watch?v=J9yqSdvAKXY)).
 
