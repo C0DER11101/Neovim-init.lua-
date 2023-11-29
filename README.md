@@ -1,4 +1,4 @@
-# How I set up my <img align="right" alt ="Neovim" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" style="padding-right;" />
+# How I set up my <img align="right" alt ="Neovim" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg"/>
 
 This is my current directory structure(which I created along side this very nice [video](https://www.youtube.com/watch?v=J9yqSdvAKXY)).
 
