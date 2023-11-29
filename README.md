@@ -22,6 +22,7 @@ This is my current directory structure(which I created along side this very nice
      |     |  |__nvim-tree.lua
      |     |  |__plenary.lua
      |     |  |__telescope.lua
+     |     |  |__treesitter.lua
      |     |  |__webDevicon.lua
      |     |
      |     |__plugins.lua
