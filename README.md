@@ -33,7 +33,7 @@ This is my current directory structure(which I created along side this very nice
 ```
 
 ## <ins>First</ins>
-* We install [`packer.nvim`](https://github.com/wbthomason/packer.nvim#packernvim). I found the [bootstrapping](https://github.com/wbthomason/packer.nvim#bootstrapping) a bit easier(not quoting the video, honestly writing), probably because I am a beginner at this. Copied the code from the bootstrapping section into `plugins.lua` in `lua/core/`.
+* We install [`packer.nvim`](https://github.com/wbthomason/packer.nvim#packernvim). I found the [bootstrapping](https://github.com/wbthomason/packer.nvim#bootstrapping) way a bit easier(not quoting the video, honestly writing), probably because I am a beginner at this. Copied the code from the bootstrapping section into `plugins.lua` in `lua/core/`.
 * After this, make sure that you require `plugins.lua` in your `nvim/init.lua` file. After this, when you reopen `nvim/init.lua` packer will get installed automatically.
 
 ## <ins>Second</ins>
