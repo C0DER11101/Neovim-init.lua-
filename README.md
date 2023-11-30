@@ -51,6 +51,8 @@ These will be downloaded as zip files, unzip them to a desired location. Install
 * Treesitter also allows **rainbow parentheses**.
 To get rainbow parentheses go to [https://github.com/p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow). Install this plugin and then go to `treesitter.lua` put some extra commands there.
 
+* Here is another syntax checking plugin for neovim: [https://github.com/dense-analysis/ale](https://github.com/dense-analysis/ale).
+
 <p align="center">
 &#9678; &#9678; &#9678;
 </p>
